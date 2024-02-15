@@ -1,0 +1,11 @@
+.OTP{
+    padding-top: 10px;
+}
+.otpinput{
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+    font-size: 1.23em;
+    text-align: center;
+    border-radius:10px
+}
